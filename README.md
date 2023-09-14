@@ -3,7 +3,7 @@
 **Version:** 1.0.0
 
 ## Acknowledgments
-The original cGEDs app is written in R Shiny and the repository for Rshiny can be found here [here](https://github.com/STEM-Away-RShiny-app-project/cGEDs). All the processed data and biological insights and ideas were developed by the summer 2022 STEM-Away internship team. We would like to extend our sincere gratitude to the entire team for their hard work and contributions to this project.
+The original cGEDs app is written in R Shiny and the repository for Rshiny can be found [here](https://github.com/STEM-Away-RShiny-app-project/cGEDs). All the processed data and biological insights and ideas were developed by the summer 2022 STEM-Away internship team. We would like to extend our sincere gratitude to the entire team for their hard work and contributions to this project.
 
 ---
 ## Overview
@@ -15,6 +15,6 @@ In the face of the global challenge posed by cancer, effective treatment remains
 CGEDS merges gene expression and drug sensitivity data (IC50 values) for the selected cancer type and using this combined information, it calculates the correlations between gene expressions and drug sensitivities. These correlations offer valuable insights, enabling researchers and healthcare professionals to analyze drug-gene interactions. This data-driven approach enhances our understanding of how drugs may interact with individual patient profiles, empowering more informed treatment decisions. The data used is sourced from publicly accessible repositories, ensuring comprehensive and credible input for the analysis.
 
 
-Explore the app here [here](https://apps.healthuniverse.com/clo-wsa-gvt/).
+Explore the app [here](https://apps.healthuniverse.com/clo-wsa-gvt/).
 
 For support, queries or comments, contact [sabwor07@gmail.com](mailto:sabwor07@gmail.com).
